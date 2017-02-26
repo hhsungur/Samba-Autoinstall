@@ -18,5 +18,5 @@
 
 You can run it again to 
 ####- Add more users 
-####- Change any user's password(Samba's password only) and 
+####- Change any user's password(Samba's password only)
 ####- Completely uninstall Samba.
